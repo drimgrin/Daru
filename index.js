@@ -24,3 +24,4 @@ $(document).ready(function () {
     checkWidth(); // проверит при изменении размера окна клиента
   });
 });
+console.log('test');
